@@ -1,0 +1,15 @@
+
+
+Code Style: Jordi Nunes
+
+FileNames:
+	PascalCase
+
+Variables:
+	camelCase
+
+ClassNames:
+	PascalCase
+
+methodNames:
+	camelCase
